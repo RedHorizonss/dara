@@ -1,4 +1,10 @@
 [
+  "Time",
+  "Na_amount",
+  "Cu_amount",
+  "Fe_amount",
+  "Mn_amount",
+  "Ni_amount",
   "all_valence_s_avg",
   "all_valence_s_dev",
   "all_valence_s_mode",
